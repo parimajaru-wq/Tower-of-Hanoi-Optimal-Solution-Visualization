@@ -1,4 +1,4 @@
-<img width="1001" height="825" alt="ภาพถ่ายหน้าจอ 2569-01-08 เวลา 15 47 14" src="https://github.com/user-attachments/assets/d1c26eb0-5049-4383-800c-871032a37a71" />
+![รูปภาพเมื่อ 16-1-69 เวลา 01 04](https://github.com/user-attachments/assets/6a6295ce-9a24-40ab-8061-a811534c1dcb)
 
 # Tower of Hanoi - Optimal Solution Visualization
 A Python-based visualization of the classic **Tower of Hanoi** puzzle, developed using the **Pygame** library. This project demonstrates how the puzzle is solved using a recursive algorithm, which guarantees the **optimal solution** (the shortest possible sequence of moves) required to solve the puzzle in $2^n - 1$ steps.
